@@ -1,1 +1,7 @@
-requirements.txt file
+numpy
+pandas
+matplotlib
+requests
+folium
+scikit-learn
+adjustText
