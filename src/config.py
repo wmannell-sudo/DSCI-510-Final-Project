@@ -1,5 +1,5 @@
-NOAA_URL = "https://api.tidesandcurrents.noaa.gov/api/prod/datagetter"
+OUTPUT_DIR = "data"
 DAYS_BACK = 30
-UNITS = "metric"
-TIME_ZONE = "gmt"
-DATUM = "MSL"
+SLEEP_BETWEEN_STATIONS_SEC = 0.2
+LABEL_OFFSET = (5, 5)
+LABEL_FONTSIZE = 7
