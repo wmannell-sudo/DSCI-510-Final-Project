@@ -18,8 +18,6 @@ This project includes modular Python scripts in the src/ directory that implemen
 
 The repository follows the structure required by the course rubric with approved deviations.
 
-`.`  
-`.`  
 `├── data/`  
 `│   ├── raw/`  
 `│   │   ├── ca_noaa_stations.csv`  
