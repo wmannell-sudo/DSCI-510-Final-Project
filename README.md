@@ -14,7 +14,7 @@ The project analyzes recent sea-level variability at NOAA tide gauge stations al
 
 ## **Repository Structure**
 
-The repository follows the structure required by the course rubric.
+The repository follows the structure required by the course rubric with approved deviations.
 
 `.`  
 `.`  
