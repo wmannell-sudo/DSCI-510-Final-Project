@@ -10,6 +10,8 @@ This project was completed for **DSCI 510: Principles of Programming for Data Sc
 
 The project analyzes recent sea-level variability at NOAA tide gauge stations along the California coast and combines this information with nearby housing values to conceptualize relative coastal risk. The analysis is exploratory and intended for instructional purposes.
 
+This project includes modular Python scripts in the src/ directory that implement each stage of the data pipeline. For instructional clarity and reproducibility, the accompanying Jupyter notebook contains the same logic inline and demonstrates the full workflow end-to-end. The notebook serves as the primary execution and visualization environment, while the scripts provide a modular reference implementation consistent with the project rubric.
+
 ---
 
 ## **Repository Structure**
