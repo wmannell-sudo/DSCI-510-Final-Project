@@ -104,7 +104,7 @@ The repository follows the structure required by the course rubric.
 
   * `README.md` documents the project structure and usage.
 
-  * `final_project_proposal.pdf` contains the original project proposal.
+  * `Updated Plan for Final project.pdf` contains the original project proposal.
 
 ---
 
